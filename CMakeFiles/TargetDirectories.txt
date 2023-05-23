@@ -1,0 +1,3 @@
+/home/wangyu/code/王玉/CMakeFiles/rebuild_cache.dir
+/home/wangyu/code/王玉/CMakeFiles/edit_cache.dir
+/home/wangyu/code/王玉/CMakeFiles/mouse.dir
