@@ -1,0 +1,3 @@
+/home/wangyu/2022300394王玉/CMakeFiles/rebuild_cache.dir
+/home/wangyu/2022300394王玉/CMakeFiles/edit_cache.dir
+/home/wangyu/2022300394王玉/CMakeFiles/Bignum_cmake.dir
